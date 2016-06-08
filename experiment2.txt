@@ -1,0 +1,49 @@
+Experiment 2 Results
+This is for trace file: sample_large1
+Cache size of: 4 KB
+Block size of: 32 bytes
+Associativity of: 4 
+Replacement policy: 0 
++ number of accesses : 30438865 
++ number of reads : 20813032 
++ number of writes : 9625833 
++ number of hits : 2678172 
++ number of misses : 128 
++ number of misses_with_writeback : 27760565
+
+This is for trace file: sample_large1
+Cache size of: 4 KB
+Block size of: 32 bytes
+Associativity of: 4 
+Replacement policy: 1 
++ number of accesses : 30438865 
++ number of reads : 20813032 
++ number of writes : 9625833 
++ number of hits : 2666293 
++ number of misses : 128 
++ number of misses_with_writeback : 27772444
+
+
+This is for trace file: sample_large2
+Cache size of: 4 KB
+Block size of: 32 bytes
+Associativity of: 4 
+Replacement policy: 0 
++ number of accesses : 36084985 
++ number of reads : 29411338 
++ number of writes : 6673647 
++ number of hits : 8647512 
++ number of misses : 72
++ number of misses_with_writeback : 27437401
+
+This is for trace file: sample_large2
+Cache size of: 4 KB
+Block size of: 32 bytes
+Associativity of: 4 
+Replacement policy: 1 
++ number of accesses : 36084985 
++ number of reads : 29411338 
++ number of writes : 6673647 
++ number of hits : 8240627 
++ number of misses : 72
++ number of misses_with_writeback : 29204644
